@@ -1,0 +1,17 @@
+{
+  "products":[
+   {
+    "name":"t-shirt",
+    "color":"red"
+   },
+   {
+    "name":"trousers",
+    "color":"yellow"
+   },
+   {
+    "name":"hat",
+    "color":"blue"
+   }
+  ]
+
+}
